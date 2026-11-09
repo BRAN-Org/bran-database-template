@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sample-2026-001",
+    "doi": "10.5281/zenodo.sample001",
+    "title": "A Ciência Aberta e a Preservação Digital de Anais de Eventos Acadêmicos no Brasil",
+    "authors": [
+      {
+        "name": "Silva, Maria Aparecida",
+        "affiliation": "Universidade de Brasília (UnB)"
+      },
+      {
+        "name": "Santos, Carlos Eduardo",
+        "affiliation": "Universidade Federal do Rio de Janeiro (UFRJ)"
+      }
+    ],
+    "year": 2026,
+    "abstract": "O presente estudo analisa as práticas de curadoria, preservação digital e disponibilização em acesso aberto dos anais de conferências científicas da Ciência da Informação no Brasil, demonstrando o impacto de padrões FAIR na longevidade dos dados.",
+    "keywords": [
+      "Ciência Aberta",
+      "Preservação Digital",
+      "Anais de Eventos",
+      "Ciência da Informação"
+    ],
+    "section": "Comunicação Científica e Acesso Aberto",
+    "url": "https://github.com/BRAN-Org",
+    "pdf_url": "https://github.com/BRAN-Org/sample.pdf"
+  },
+  {
+    "id": "sample-2026-002",
+    "doi": "N/A",
+    "title": "Mapeamento Cienciométrico da Produção Científica em Biblioteconomia (2015-2025)",
+    "authors": [
+      {
+        "name": "Oliveira, Lucas Fernandes",
+        "affiliation": "Universidade de São Paulo (USP)"
+      }
+    ],
+    "year": 2025,
+    "abstract": "Investigação longitudinal baseada em indicadores bibliométricos para rastrear a evolução temática e as redes de colaboração de pesquisadores brasileiros na área de Biblioteconomia ao longo da última década.",
+    "keywords": [
+      "Bibliometria",
+      "Cienciometria",
+      "Redes de Colaboração",
+      "Produção Científica"
+    ],
+    "section": "Estudos Métricos da Informação",
+    "url": "https://github.com/BRAN-Org",
+    "pdf_url": "https://github.com/BRAN-Org/sample2.pdf"
+  }
+]

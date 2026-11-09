@@ -1,0 +1,34 @@
+{
+  "title": "BRAN Database Template: Canonical Open Science Data Package for Academic Databases",
+  "description": "<p>Template canônico da BRAN Org para publicação e preservação de bases de dados acadêmicas abertas sob princípios FAIR e BOAI nos formatos canônicos JSON, CSV (RFC 4180 UTF-8 BOM), BibTeX, RIS e SQLite3 (FTS5).</p>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "BRAN Org",
+      "affiliation": "Brazilian Research Archive Network"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "keywords": [
+    "open-data",
+    "bibliometrics",
+    "scientometrics",
+    "academic-data",
+    "fair-data",
+    "data-package"
+  ],
+  "communities": [
+    {
+      "identifier": "bran-org"
+    }
+  ],
+  "publication_date": "2026-11-09",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BRAN-Org/bran-database-template",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

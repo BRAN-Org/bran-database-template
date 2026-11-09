@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/BRAN-Org/schemas/main/schemas/provenance.v1.schema.json",
+  "dataset_id": "sample_articles",
+  "source_url": "https://github.com/BRAN-Org",
+  "scraped_at": "2026-11-09T13:21:44.140159+00:00",
+  "extractor_name": "bran-harvester",
+  "extractor_version": "1.0.0",
+  "health_level": "VERIFIED_AUDITED",
+  "methodology_disclaimer": "Dados coletados sob o protocolo de proveniência e ciência aberta da BRAN Org.",
+  "total_records": 2,
+  "missing_doi_count": 1,
+  "missing_abstract_count": 0,
+  "raw_data_sha256": "ace626ec6acbc5fefee40344b00e5fa0d08554bf65ebd78b28b2e5745e7c29a2",
+  "last_audited_at": "2026-11-09T13:23:34.433836+00:00",
+  "checksums": {
+    "sample_articles.json": "ace626ec6acbc5fefee40344b00e5fa0d08554bf65ebd78b28b2e5745e7c29a2",
+    "sample_articles.csv": "451a0ab94e283dddddcac85f60a9e1f733abe88b9f71679cf4053cc512b41cdf",
+    "sample_articles.sqlite": "2573028b83e3b79f2a0ccb08172c2224cc2177ee3e0ddf2ec9831bd0dd7c3d26"
+  }
+}
