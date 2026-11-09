@@ -11,10 +11,10 @@
   "missing_doi_count": 1,
   "missing_abstract_count": 0,
   "raw_data_sha256": "ace626ec6acbc5fefee40344b00e5fa0d08554bf65ebd78b28b2e5745e7c29a2",
-  "last_audited_at": "2026-11-09T15:11:49.722401+00:00",
+  "last_audited_at": "2026-11-09T15:12:34.006202+00:00",
   "checksums": {
     "sample_articles.json": "ace626ec6acbc5fefee40344b00e5fa0d08554bf65ebd78b28b2e5745e7c29a2",
     "sample_articles.csv": "451a0ab94e283dddddcac85f60a9e1f733abe88b9f71679cf4053cc512b41cdf",
-    "sample_articles.sqlite": "2573028b83e3b79f2a0ccb08172c2224cc2177ee3e0ddf2ec9831bd0dd7c3d26"
+    "sample_articles.sqlite": "c03191a0c53c8c7493bc97b9e27ca96eb38a30422378744bca2abce9d7305e68"
   }
 }
